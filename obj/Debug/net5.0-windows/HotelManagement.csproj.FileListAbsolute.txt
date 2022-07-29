@@ -1,0 +1,142 @@
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.exe
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\appsettings.json
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.deps.json
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.runtimeconfig.json
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.runtimeconfig.dev.json
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\ref\HotelManagement.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.pdb
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Humanizer.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\System.Text.Json.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\1.FPT\PRN2000\Solutions\HotelManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.AssemblyReference.cache
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.AssemblyInfoInputs.cache
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.AssemblyInfo.cs
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.CoreCompileInputs.cache
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.CopyComplete
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\ref\HotelManagement.dll
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.pdb
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.genruntimeconfig.cache
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.fCustomerInfomation.resources
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.fDatPhong.resources
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.fLogin.resources
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.fMain.resources
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.fRoomManager.resources
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.fService.resources
+D:\1.FPT\PRN2000\Solutions\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.exe
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.deps.json
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.runtimeconfig.json
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.runtimeconfig.dev.json
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\ref\HotelManagement.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\HotelManagement.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.AssemblyReference.cache
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.fCustomerInfomation.resources
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.fDatPhong.resources
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.fLogin.resources
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.fMain.resources
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.fRoomManager.resources
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.fService.resources
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.AssemblyInfoInputs.cache
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.AssemblyInfo.cs
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.csproj.CopyComplete
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\ref\HotelManagement.dll
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.pdb
+C:\Users\Admin\Dropbox\PC\Desktop\Project PRN\HotelManagement\obj\Debug\net5.0-windows\HotelManagement.genruntimeconfig.cache
